@@ -161,3 +161,5 @@ The findings can help the bank prioritize customer segments for further investig
 ## Disclaimer
 
 The findings represent patterns observed in the analyzed dataset. Higher churn rates indicate associations, not necessarily causal relationships. Further investigation and predictive modeling would be required to validate churn drivers and forecast future customer departures.
+## Dashboard
+https://github.com/sushobhitnigam-commits/bank_churn_analysis/blob/main/bank_churn_analysis.png
